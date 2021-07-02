@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - ✨ Hi guys, I am ACgay! NOT gay, JUST ACgay!!!
-- 🔭 I’m currently studying in NUIST, Nanjing, Jiangsu, China.
-- 🌱 I’m currently learning Operating System, MIPS and Artificial Neural Networks.
+- 🔭 I graduated from NUIST, NanJing, China. AND I am going to Fudan University to pursue master degree.
+- 🌱 I’m currently learning Artificial Neural Networks, 3D vision and SLAM.
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Algorithm, DataStructure, Operating System, MIPS, Artificial Neural Networks, Generative Adversarial Networks, Computer Science...
