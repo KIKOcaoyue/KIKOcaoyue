@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- ✨ Hi guys, I am ACgay!!!
+- ✨ Hi guys, I am Yue!!!
 - 🏟️ I am used to be am ICPCer, But not good at that.
 - 🔭 I graduated from NUIST, and I am now at FDU.
 - 🌱 I’m currently learning Artificial Intelligence, Collision Detection and Digital Twin.
